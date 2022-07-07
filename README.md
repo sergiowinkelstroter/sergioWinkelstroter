@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Sergio Winkelstroter
 
-- 🔭 Estou procurando minha primeira experiencia!
+- 🔭 Estou procurando minha primeira experiencia como dev!
 - 🌱 Estundo desenvolvimento Front-end!
 
 <div align="center">
