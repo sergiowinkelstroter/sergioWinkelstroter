@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Sergio Winkelstroter
 
-- 🔭 Estou a procura de trabalho
-- 🌱 Estundo desenvolvimento Front-end 
+- 🔭 Estou procurando minha primeira experiencia!
+- 🌱 Estundo desenvolvimento Front-end!
 
 <div align="center">
   <a href="https://sergio-winkelstroter-blue.vercel.app/">
