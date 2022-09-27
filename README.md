@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Sergio Winkelstroter
 
-- 🔭 Estou procurando minha primeira experiencia como dev!
-- 🌱 Estundo desenvolvimento Front-end!
+- 🔭 Dev Front-end!
+- 🌱 Atualmente estudando HTML, CSS, JavaScript, Typescript, ReactJS ...
 
 <div align="center">
   <a href="https://sergio-winkelstroter-blue.vercel.app/">
@@ -15,6 +15,7 @@
   <img align="center" alt="Wink-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wink-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wink-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Wink-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="center" alt="Wink-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
   
