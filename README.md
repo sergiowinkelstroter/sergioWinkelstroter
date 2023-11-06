@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Sergio Winkelstroter
 
 # 💫 About Me:
-🔭 Desenvolvedor Front-end<br>🌱 Estudando Vue.js<br>
+🔭 Desenvolvedor Front-end<br>🌱 Estudando Java + Spring Boot<br>
 
 
 ## 🌐 Socials:
