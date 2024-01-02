@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Sergio Winkelstroter
 
 # 💫 About Me:
-🔭 Desenvolvedor Back-end<br>🌱 Estudando Java + Spring Boot<br>
+🔭 Desenvolvedor Full-Stack<br>🌱 Estudando Java + Spring Boot<br>
 
 
 ## 🌐 Socials:
