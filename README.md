@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% scr="https://github.com/sergiowinkelstroter/sergioWinkelstroter/blob/main/github-header.png"/>
+<img align="center" width=100% scr="https://github.com/sergiowinkelstroter/sergioWinkelstroter/blob/main/github-header.png"/>
 
 # 💫 About Me:
 
