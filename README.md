@@ -1,4 +1,4 @@
-<img scr="./github-header.png"/>
+<img scr="![github_header](github-header.png)"/>
 
 # 💫 About Me:
 
