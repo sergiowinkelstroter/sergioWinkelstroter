@@ -1,4 +1,4 @@
-<img scr="![github_header](github-header.png)"/>
+<img align="center" style="margin-bottom:100px" width=100% scr="https://raw.githubusercontent.com/sergiowinkelstroter/sergioWinkelstroter/main/github-header.png"/>
 
 # 💫 About Me:
 
