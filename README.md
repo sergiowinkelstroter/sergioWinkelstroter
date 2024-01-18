@@ -10,10 +10,7 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiowinkelstroter)](https://github.com/sergiowinkelstrotergithub-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sergiowinkelstroter&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiowinkelstroter&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sergiowinkelstroter&icon=0&color=0)](https://visitcount.itsvg.in)
