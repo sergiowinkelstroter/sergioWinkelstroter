@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 Desenvolvedor Full-stack<br>🌱 Estudando NodeJS + Express<br>
+🔭 Desenvolvedor Full-stack<br>🌱 Estudando Node.js + Express<br>
 
 ## 🌐 Socials:
 
