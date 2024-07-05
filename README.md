@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 Desenvolvedor Full-stack<br>🌱 Estudando Java + Spring Boot<br>
+🔭 Desenvolvedor Full-stack<br>🌱 Estudando NodeJS + Express<br>
 
 ## 🌐 Socials:
 
