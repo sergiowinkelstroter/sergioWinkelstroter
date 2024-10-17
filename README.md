@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/Javascript-fffff?style=for-the-badge&logo=javascript&logoColor=white) ![React.JS](https://img.shields.io/badge/React.JS-316192?style=for-the-badge&logo=react&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-fffff?style=for-the-badge&logo=node&logoColor=white)![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-fffff?style=for-the-badge&logo=javascript&logoColor=white) ![React.JS](https://img.shields.io/badge/React.JS-316192?style=for-the-badge&logo=react&logoColor=white) ![Java](https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=java&logoColor=white)![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
