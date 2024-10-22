@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Full-Stack Developer<br>- Freelancer</p>
+<p align="left">- Full-Stack Developer</p>
 
 ###
 
