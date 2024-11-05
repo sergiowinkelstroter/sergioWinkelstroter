@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Full-Stack Developer</p>
+<p align="left"> Desenvolvedor Full-Stack com experiência em Java, Spring Boot, React.js, Next.js, TailwindCSS e muito mais. Formado em Sistemas para Internet. Atualmente atuo como freelancer, criando soluções personalizadas desde interfaces intuitivas até back-ends escaláveis. Sempre em busca de novos desafios e oportunidades para crescer.</p>
 
 ###
 
