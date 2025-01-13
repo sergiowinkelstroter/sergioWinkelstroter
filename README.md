@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Desenvolvedor Full-Stack com experiência em Java, Spring Boot, React.js, Next.js, TailwindCSS e muito mais. Formado em Sistemas para Internet. Atualmente atuo como freelancer, criando soluções personalizadas desde interfaces intuitivas até back-ends escaláveis. Sempre em busca de novos desafios e oportunidades para crescer.</p>
+<p align="left"> Desenvolvedor Full-Stack com experiência em Nodejs, Express, React.js, Next.js, TailwindCSS e muito mais. Formado em Sistemas para Internet.</p>
 
 ###
 
@@ -19,9 +19,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
